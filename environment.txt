@@ -1,0 +1,4 @@
+Validated with R 4.3.3 on Linux.
+No CRAN packages are required.
+Python 3.12 is optional for data acquisition utilities.
+Exact R session details: results/sessionInfo.txt

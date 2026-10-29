@@ -1,0 +1,10 @@
+"model","parameter","value"
+"exponential","rate",0.00114676726442349
+"lognormal","meanlog",5.76622991574989
+"lognormal","sdlog",1.3171956922847
+"gamma","shape",0.61311150635979
+"gamma","rate",0.000703095601526127
+"weibull","shape",0.704894525561935
+"weibull","scale",628.028131766303
+"lomax","shape",1.80444714421067
+"lomax","scale",692.145844176748

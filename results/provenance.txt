@@ -1,0 +1,4 @@
+Source file MD5: 027fd77442d5d7c60a702b5f2dae36bd
+Source rows: 105555
+Source policies: 53502
+Only aggregate outputs are exported; source identifiers and dates are not included.
